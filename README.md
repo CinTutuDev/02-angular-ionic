@@ -1,7 +1,7 @@
 # 🎮02-angular-ionic
 El templete es blanco para hacerlo desde cero
 
-# Tips/comandos
+## Tips/comandos
 ```
 * Para instalar ionic desde cero en blanco
 	ionic start componentes blank
