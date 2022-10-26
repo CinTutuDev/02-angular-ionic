@@ -5,8 +5,13 @@ El templete es blanco para hacerlo desde cero
 ```
 * Para instalar ionic desde cero en blanco
 	ionic start componentes blank
+
 ```
 
+## URL/IMP
+```
+https://ionicframework.com/docs/components
+```
 
 
 
