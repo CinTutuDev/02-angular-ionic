@@ -1,14 +1,14 @@
-/* Variables globales */
-$btn-fondo: rgb(227, 227, 37);
+$btn-fondo: #f77f00;
 $btn-letra: black;
-$btn-fondo-hover: rgb(227, 69, 11);
+$btn-fondo-hover: #003049;
 $btn-letra-hover: rgb(138, 216, 22);
+
 
 .ios {
  .btn-min {
-  background-color:$btn-fondo;
+  background-color: $btn-fondo;
   color: $btn-letra;
-  
+
 
   &:hover {
    background-color: $btn-fondo-hover;
