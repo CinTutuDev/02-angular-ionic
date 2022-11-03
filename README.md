@@ -31,6 +31,4 @@ https://ionicframework.com/docs/components
 ```
 
 
-
-
 **Free Software, Hell Yeah!🤘**
